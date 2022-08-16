@@ -5,3 +5,5 @@ Rivi numero kaksi.
 Muutos VSC:n kautta.
 
 Testataan GitHub-toimintoja.
+
+Tämä rivi on lisätty GitHub kautta selaimessa.
