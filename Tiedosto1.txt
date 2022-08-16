@@ -3,3 +3,5 @@ AAAAAAAAAAAAAAAAAAA
 Rivi numero kaksi.
 
 Muutos VSC:n kautta.
+
+Testataan GitHub-toimintoja.
